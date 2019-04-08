@@ -1,0 +1,3 @@
+FROM postgres
+
+EXPOSE 5432:5432
